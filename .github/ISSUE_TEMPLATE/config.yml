@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: UppTrivia Support Tracker
+    url: https://github.com/thiefspin/UppTrivia-Support/issues/new?template=support-request.yml
+    about: Create a support issue for the UppTrivia iOS app.
